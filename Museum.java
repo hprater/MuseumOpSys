@@ -17,7 +17,7 @@ public class Museum implements Runnable{
 
         if (args.length == 2) {
             try {
-                Museum.time = Integer.parseInt(args[0]) * 1000;
+                Museum.time = Integer.parseInt(args[0]) * 100;
                 Museum.visitors = Integer.parseInt(args[1]);
                 Museum.waitingRoomSem = new Semaphore(40);
                 Museum.dinosaurRoomSem = new Semaphore(20);
@@ -41,7 +41,7 @@ public class Museum implements Runnable{
         start = System.currentTimeMillis();
         for (int i = 0; i < visitors; i++) {
             try {
-                Thread.sleep(RANDOM.nextInt(1000));
+                Thread.sleep(RANDOM.nextInt(100));
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
@@ -80,19 +80,19 @@ class Visitor implements Runnable {
                 Museum.waitingRoomSem.release();
                 int dinoRoom = 20 - Museum.dinosaurRoomSem.availablePermits();
                 System.out.println("\t\tVisitor # " + myId + " enters the dinosaur room. There are " + dinoRoom + " watching dinosaurs!");
-                Thread.sleep(RANDOM.nextInt(100 * 10));
+                Thread.sleep(RANDOM.nextInt(1000 * 10));
                 Museum.zoologyRoomSem.acquire();
                 Museum.dinosaurRoomSem.release();
                 int zoologyRoom = 25 - Museum.zoologyRoomSem.availablePermits();
                 System.out.println("\t\t\tVisitor # " + myId + " enters the zoology room. There are " + zoologyRoom + " enjoying animals");
-                Thread.sleep(RANDOM.nextInt(100 * 15));
+                Thread.sleep(RANDOM.nextInt(1000 * 15));
                 Museum.giftRoomSem.acquire();
                 Museum.zoologyRoomSem.release();
                 int gift = 30 - Museum.giftRoomSem.availablePermits();
                 System.out.println("\t\t\t\tVisitor # " + myId + " enters Gift room. There are " + gift + " looking to buy!");
-                Thread.sleep(RANDOM.nextInt(100 * 30));
+                Thread.sleep(RANDOM.nextInt(1000 * 30));
                 Museum.giftRoomSem.release();
-                System.out.println("\t\t\t\tVisitor # " + myId + " exits the system");
+                System.out.println("\t\t\t\t\tVisitor # " + myId + " exits the system");
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
