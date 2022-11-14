@@ -84,7 +84,7 @@ class Visitor implements Runnable {
                 Museum.zoologyRoomSem.acquire();
                 Museum.dinosaurRoomSem.release();
                 int zoologyRoom = 25 - Museum.zoologyRoomSem.availablePermits();
-                System.out.println("\t\t\tVisitor # " + myId + " enters the zoology room. There are " + zoologyRoom + " enjoying animals");
+                System.out.println("\t\t\tVisitor # " + myId + " enters the zoology room. There are " + zoologyRoom + " enjoying animals!");
                 Thread.sleep(RANDOM.nextInt(1000 * 15));
                 Museum.giftRoomSem.acquire();
                 Museum.zoologyRoomSem.release();
