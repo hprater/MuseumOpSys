@@ -59,11 +59,6 @@ public class Museum implements Runnable{
         long start;
         start = System.currentTimeMillis();
         for (int i = 0; i < visitors; i++) {
-//            try {
-//                Thread.sleep(RANDOM.nextInt(100));
-//            } catch (InterruptedException e) {
-//                e.printStackTrace();
-//            }
             current = System.currentTimeMillis();
             if ((current - start) >= time) {
                 break;
