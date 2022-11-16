@@ -1,0 +1,304 @@
+Using arguments from command line
+Sleep time = 200
+Number of visitors = 50
+
+Visitor # 2 enters the system.
+Visitor # 4 enters the system.
+Visitor # 1 enters the system.
+Visitor # 3 enters the system.
+Visitor # 5 enters the system.
+Visitor # 6 enters the system.
+Visitor # 7 enters the system.
+Visitor # 8 enters the system.
+Visitor # 9 enters the system.
+Visitor # 10 enters the system.
+Visitor # 11 enters the system.
+	Visitor # 2 enters the waiting area and is waiting to enter the museum. We have 1 waiting.
+		Visitor # 2 enters the dinosaur room. There are 1 watching dinosaurs!
+Visitor # 12 enters the system.
+	Visitor # 4 enters the waiting area and is waiting to enter the museum. We have 1 waiting.
+		Visitor # 4 enters the dinosaur room. There are 2 watching dinosaurs!
+	Visitor # 3 enters the waiting area and is waiting to enter the museum. We have 1 waiting.
+		Visitor # 3 enters the dinosaur room. There are 3 watching dinosaurs!
+Visitor # 13 enters the system.
+	Visitor # 1 enters the waiting area and is waiting to enter the museum. We have 1 waiting.
+Visitor # 14 enters the system.
+	Visitor # 14 enters the waiting area and is waiting to enter the museum. We have 2 waiting.
+		Visitor # 1 enters the dinosaur room. There are 4 watching dinosaurs!
+	Visitor # 5 enters the waiting area and is waiting to enter the museum. We have 3 waiting.
+Visitor # 15 enters the system.
+	Visitor # 15 enters the waiting area and is waiting to enter the museum. We have 3 waiting.
+		Visitor # 14 enters the dinosaur room. There are 5 watching dinosaurs!
+		Visitor # 5 enters the dinosaur room. There are 6 watching dinosaurs!
+		Visitor # 15 enters the dinosaur room. There are 7 watching dinosaurs!
+	Visitor # 6 enters the waiting area and is waiting to enter the museum. We have 3 waiting.
+		Visitor # 6 enters the dinosaur room. There are 8 watching dinosaurs!
+Visitor # 16 enters the system.
+	Visitor # 16 enters the waiting area and is waiting to enter the museum. We have 1 waiting.
+		Visitor # 16 enters the dinosaur room. There are 9 watching dinosaurs!
+	Visitor # 7 enters the waiting area and is waiting to enter the museum. We have 1 waiting.
+		Visitor # 7 enters the dinosaur room. There are 10 watching dinosaurs!
+	Visitor # 8 enters the waiting area and is waiting to enter the museum. We have 1 waiting.
+		Visitor # 8 enters the dinosaur room. There are 11 watching dinosaurs!
+	Visitor # 9 enters the waiting area and is waiting to enter the museum. We have 1 waiting.
+		Visitor # 9 enters the dinosaur room. There are 12 watching dinosaurs!
+Visitor # 17 enters the system.
+Visitor # 18 enters the system.
+	Visitor # 10 enters the waiting area and is waiting to enter the museum. We have 2 waiting.
+		Visitor # 10 enters the dinosaur room. There are 13 watching dinosaurs!
+	Visitor # 11 enters the waiting area and is waiting to enter the museum. We have 2 waiting.
+		Visitor # 11 enters the dinosaur room. There are 14 watching dinosaurs!
+	Visitor # 12 enters the waiting area and is waiting to enter the museum. We have 2 waiting.
+		Visitor # 12 enters the dinosaur room. There are 15 watching dinosaurs!
+Visitor # 19 enters the system.
+	Visitor # 13 enters the waiting area and is waiting to enter the museum. We have 1 waiting.
+Visitor # 20 enters the system.
+	Visitor # 20 enters the waiting area and is waiting to enter the museum. We have 2 waiting.
+Visitor # 22 enters the system.
+	Visitor # 22 enters the waiting area and is waiting to enter the museum. We have 3 waiting.
+		Visitor # 13 enters the dinosaur room. There are 16 watching dinosaurs!
+Visitor # 21 enters the system.
+Visitor # 23 enters the system.
+		Visitor # 20 enters the dinosaur room. There are 17 watching dinosaurs!
+	Visitor # 17 enters the waiting area and is waiting to enter the museum. We have 3 waiting.
+		Visitor # 17 enters the dinosaur room. There are 18 watching dinosaurs!
+		Visitor # 22 enters the dinosaur room. There are 19 watching dinosaurs!
+Visitor # 24 enters the system.
+	Visitor # 18 enters the waiting area and is waiting to enter the museum. We have 1 waiting.
+Visitor # 25 enters the system.
+	Visitor # 25 enters the waiting area and is waiting to enter the museum. We have 2 waiting.
+		Visitor # 18 enters the dinosaur room. There are 20 watching dinosaurs!
+	Visitor # 19 enters the waiting area and is waiting to enter the museum. We have 3 waiting.
+Visitor # 26 enters the system.
+	Visitor # 26 enters the waiting area and is waiting to enter the museum. We have 3 waiting.
+Visitor # 28 enters the system.
+	Visitor # 23 enters the waiting area and is waiting to enter the museum. We have 4 waiting.
+Visitor # 27 enters the system.
+Visitor # 29 enters the system.
+	Visitor # 21 enters the waiting area and is waiting to enter the museum. We have 5 waiting.
+Visitor # 31 enters the system.
+	Visitor # 24 enters the waiting area and is waiting to enter the museum. We have 6 waiting.
+Visitor # 30 enters the system.
+	Visitor # 30 enters the waiting area and is waiting to enter the museum. We have 7 waiting.
+Visitor # 32 enters the system.
+	Visitor # 28 enters the waiting area and is waiting to enter the museum. We have 8 waiting.
+Visitor # 33 enters the system.
+	Visitor # 27 enters the waiting area and is waiting to enter the museum. We have 9 waiting.
+Visitor # 34 enters the system.
+	Visitor # 29 enters the waiting area and is waiting to enter the museum. We have 10 waiting.
+Visitor # 35 enters the system.
+	Visitor # 31 enters the waiting area and is waiting to enter the museum. We have 11 waiting.
+Visitor # 36 enters the system.
+	Visitor # 32 enters the waiting area and is waiting to enter the museum. We have 12 waiting.
+Visitor # 37 enters the system.
+	Visitor # 37 enters the waiting area and is waiting to enter the museum. We have 13 waiting.
+Visitor # 38 enters the system.
+	Visitor # 33 enters the waiting area and is waiting to enter the museum. We have 14 waiting.
+Visitor # 39 enters the system.
+Visitor # 40 enters the system.
+Visitor # 41 enters the system.
+	Visitor # 34 enters the waiting area and is waiting to enter the museum. We have 15 waiting.
+	Visitor # 35 enters the waiting area and is waiting to enter the museum. We have 16 waiting.
+Visitor # 42 enters the system.
+	Visitor # 36 enters the waiting area and is waiting to enter the museum. We have 17 waiting.
+Visitor # 43 enters the system.
+	Visitor # 38 enters the waiting area and is waiting to enter the museum. We have 18 waiting.
+	Visitor # 39 enters the waiting area and is waiting to enter the museum. We have 19 waiting.
+Visitor # 44 enters the system.
+	Visitor # 40 enters the waiting area and is waiting to enter the museum. We have 20 waiting.
+Visitor # 45 enters the system.
+	Visitor # 41 enters the waiting area and is waiting to enter the museum. We have 21 waiting.
+Visitor # 46 enters the system.
+	Visitor # 42 enters the waiting area and is waiting to enter the museum. We have 22 waiting.
+Visitor # 47 enters the system.
+	Visitor # 43 enters the waiting area and is waiting to enter the museum. We have 23 waiting.
+Visitor # 48 enters the system.
+	Visitor # 48 enters the waiting area and is waiting to enter the museum. We have 24 waiting.
+Visitor # 49 enters the system.
+	Visitor # 44 enters the waiting area and is waiting to enter the museum. We have 25 waiting.
+	Visitor # 45 enters the waiting area and is waiting to enter the museum. We have 26 waiting.
+Visitor # 50 enters the system.
+	Visitor # 50 enters the waiting area and is waiting to enter the museum. We have 27 waiting.
+	Visitor # 46 enters the waiting area and is waiting to enter the museum. We have 28 waiting.
+	Visitor # 47 enters the waiting area and is waiting to enter the museum. We have 29 waiting.
+	Visitor # 49 enters the waiting area and is waiting to enter the museum. We have 30 waiting.
+			Visitor # 9 enters the zoology room. There are 1 enjoying animals!
+		Visitor # 25 enters the dinosaur room. There are 20 watching dinosaurs!
+			Visitor # 18 enters the zoology room. There are 2 enjoying animals!
+		Visitor # 19 enters the dinosaur room. There are 20 watching dinosaurs!
+			Visitor # 15 enters the zoology room. There are 3 enjoying animals!
+		Visitor # 26 enters the dinosaur room. There are 20 watching dinosaurs!
+			Visitor # 1 enters the zoology room. There are 4 enjoying animals!
+		Visitor # 23 enters the dinosaur room. There are 20 watching dinosaurs!
+				Visitor # 1 enters Gift room. There are 1 looking to buy!
+			Visitor # 5 enters the zoology room. There are 4 enjoying animals!
+		Visitor # 21 enters the dinosaur room. There are 20 watching dinosaurs!
+			Visitor # 7 enters the zoology room. There are 5 enjoying animals!
+		Visitor # 24 enters the dinosaur room. There are 20 watching dinosaurs!
+			Visitor # 23 enters the zoology room. There are 6 enjoying animals!
+		Visitor # 30 enters the dinosaur room. There are 20 watching dinosaurs!
+			Visitor # 13 enters the zoology room. There are 7 enjoying animals!
+		Visitor # 28 enters the dinosaur room. There are 20 watching dinosaurs!
+			Visitor # 2 enters the zoology room. There are 8 enjoying animals!
+		Visitor # 27 enters the dinosaur room. There are 20 watching dinosaurs!
+				Visitor # 9 enters Gift room. There are 2 looking to buy!
+			Visitor # 6 enters the zoology room. There are 8 enjoying animals!
+		Visitor # 29 enters the dinosaur room. There are 20 watching dinosaurs!
+			Visitor # 26 enters the zoology room. There are 9 enjoying animals!
+		Visitor # 31 enters the dinosaur room. There are 20 watching dinosaurs!
+			Visitor # 25 enters the zoology room. There are 10 enjoying animals!
+		Visitor # 37 enters the dinosaur room. There are 20 watching dinosaurs!
+			Visitor # 11 enters the zoology room. There are 11 enjoying animals!
+		Visitor # 32 enters the dinosaur room. There are 20 watching dinosaurs!
+					Visitor # 9 exits the system
+				Visitor # 5 enters Gift room. There are 2 looking to buy!
+			Visitor # 27 enters the zoology room. There are 11 enjoying animals!
+		Visitor # 33 enters the dinosaur room. There are 20 watching dinosaurs!
+			Visitor # 32 enters the zoology room. There are 12 enjoying animals!
+		Visitor # 34 enters the dinosaur room. There are 20 watching dinosaurs!
+			Visitor # 24 enters the zoology room. There are 13 enjoying animals!
+			Visitor # 22 enters the zoology room. There are 14 enjoying animals!
+		Visitor # 35 enters the dinosaur room. There are 20 watching dinosaurs!
+		Visitor # 36 enters the dinosaur room. There are 20 watching dinosaurs!
+			Visitor # 29 enters the zoology room. There are 15 enjoying animals!
+		Visitor # 38 enters the dinosaur room. There are 20 watching dinosaurs!
+			Visitor # 20 enters the zoology room. There are 16 enjoying animals!
+		Visitor # 39 enters the dinosaur room. There are 20 watching dinosaurs!
+			Visitor # 12 enters the zoology room. There are 17 enjoying animals!
+		Visitor # 40 enters the dinosaur room. There are 20 watching dinosaurs!
+			Visitor # 17 enters the zoology room. There are 18 enjoying animals!
+		Visitor # 41 enters the dinosaur room. There are 20 watching dinosaurs!
+				Visitor # 11 enters Gift room. There are 3 looking to buy!
+				Visitor # 27 enters Gift room. There are 4 looking to buy!
+			Visitor # 16 enters the zoology room. There are 17 enjoying animals!
+		Visitor # 42 enters the dinosaur room. There are 20 watching dinosaurs!
+			Visitor # 10 enters the zoology room. There are 18 enjoying animals!
+		Visitor # 43 enters the dinosaur room. There are 20 watching dinosaurs!
+			Visitor # 4 enters the zoology room. There are 19 enjoying animals!
+		Visitor # 48 enters the dinosaur room. There are 20 watching dinosaurs!
+			Visitor # 3 enters the zoology room. There are 20 enjoying animals!
+		Visitor # 44 enters the dinosaur room. There are 20 watching dinosaurs!
+			Visitor # 33 enters the zoology room. There are 21 enjoying animals!
+		Visitor # 45 enters the dinosaur room. There are 20 watching dinosaurs!
+			Visitor # 36 enters the zoology room. There are 22 enjoying animals!
+		Visitor # 50 enters the dinosaur room. There are 20 watching dinosaurs!
+			Visitor # 14 enters the zoology room. There are 23 enjoying animals!
+		Visitor # 46 enters the dinosaur room. There are 20 watching dinosaurs!
+				Visitor # 7 enters Gift room. There are 5 looking to buy!
+				Visitor # 4 enters Gift room. There are 6 looking to buy!
+			Visitor # 8 enters the zoology room. There are 22 enjoying animals!
+		Visitor # 47 enters the dinosaur room. There are 20 watching dinosaurs!
+			Visitor # 39 enters the zoology room. There are 23 enjoying animals!
+			Visitor # 38 enters the zoology room. There are 24 enjoying animals!
+		Visitor # 49 enters the dinosaur room. There are 20 watching dinosaurs!
+				Visitor # 8 enters Gift room. There are 7 looking to buy!
+			Visitor # 34 enters the zoology room. There are 24 enjoying animals!
+			Visitor # 19 enters the zoology room. There are 25 enjoying animals!
+					Visitor # 1 exits the system
+				Visitor # 34 enters Gift room. There are 7 looking to buy!
+			Visitor # 31 enters the zoology room. There are 25 enjoying animals!
+				Visitor # 12 enters Gift room. There are 8 looking to buy!
+			Visitor # 35 enters the zoology room. There are 25 enjoying animals!
+				Visitor # 32 enters Gift room. There are 9 looking to buy!
+			Visitor # 30 enters the zoology room. There are 25 enjoying animals!
+				Visitor # 31 enters Gift room. There are 10 looking to buy!
+				Visitor # 15 enters Gift room. There are 11 looking to buy!
+			Visitor # 42 enters the zoology room. There are 24 enjoying animals!
+			Visitor # 50 enters the zoology room. There are 25 enjoying animals!
+				Visitor # 20 enters Gift room. There are 12 looking to buy!
+				Visitor # 3 enters Gift room. There are 13 looking to buy!
+			Visitor # 21 enters the zoology room. There are 25 enjoying animals!
+				Visitor # 33 enters Gift room. There are 14 looking to buy!
+			Visitor # 48 enters the zoology room. There are 24 enjoying animals!
+			Visitor # 44 enters the zoology room. There are 25 enjoying animals!
+					Visitor # 20 exits the system
+				Visitor # 13 enters Gift room. There are 14 looking to buy!
+			Visitor # 28 enters the zoology room. There are 25 enjoying animals!
+					Visitor # 7 exits the system
+				Visitor # 42 enters Gift room. There are 14 looking to buy!
+			Visitor # 45 enters the zoology room. There are 25 enjoying animals!
+				Visitor # 10 enters Gift room. There are 15 looking to buy!
+			Visitor # 47 enters the zoology room. There are 25 enjoying animals!
+				Visitor # 26 enters Gift room. There are 16 looking to buy!
+				Visitor # 48 enters Gift room. There are 17 looking to buy!
+				Visitor # 21 enters Gift room. There are 18 looking to buy!
+				Visitor # 23 enters Gift room. There are 19 looking to buy!
+					Visitor # 4 exits the system
+					Visitor # 12 exits the system
+			Visitor # 40 enters the zoology room. There are 22 enjoying animals!
+				Visitor # 2 enters Gift room. There are 18 looking to buy!
+			Visitor # 37 enters the zoology room. There are 22 enjoying animals!
+				Visitor # 16 enters Gift room. There are 19 looking to buy!
+				Visitor # 18 enters Gift room. There are 20 looking to buy!
+			Visitor # 46 enters the zoology room. There are 21 enjoying animals!
+				Visitor # 29 enters Gift room. There are 21 looking to buy!
+			Visitor # 41 enters the zoology room. There are 22 enjoying animals!
+				Visitor # 14 enters Gift room. There are 22 looking to buy!
+				Visitor # 19 enters Gift room. There are 23 looking to buy!
+			Visitor # 49 enters the zoology room. There are 20 enjoying animals!
+			Visitor # 43 enters the zoology room. There are 21 enjoying animals!
+				Visitor # 22 enters Gift room. There are 24 looking to buy!
+				Visitor # 24 enters Gift room. There are 25 looking to buy!
+				Visitor # 6 enters Gift room. There are 26 looking to buy!
+				Visitor # 25 enters Gift room. There are 27 looking to buy!
+				Visitor # 44 enters Gift room. There are 28 looking to buy!
+				Visitor # 50 enters Gift room. There are 29 looking to buy!
+				Visitor # 46 enters Gift room. There are 30 looking to buy!
+					Visitor # 18 exits the system
+					Visitor # 11 exits the system
+					Visitor # 13 exits the system
+					Visitor # 15 exits the system
+				Visitor # 17 enters Gift room. There are 27 looking to buy!
+				Visitor # 35 enters Gift room. There are 28 looking to buy!
+					Visitor # 50 exits the system
+				Visitor # 36 enters Gift room. There are 28 looking to buy!
+				Visitor # 39 enters Gift room. There are 29 looking to buy!
+					Visitor # 8 exits the system
+				Visitor # 30 enters Gift room. There are 29 looking to buy!
+					Visitor # 42 exits the system
+					Visitor # 33 exits the system
+				Visitor # 38 enters Gift room. There are 28 looking to buy!
+					Visitor # 24 exits the system
+				Visitor # 47 enters Gift room. There are 28 looking to buy!
+					Visitor # 48 exits the system
+				Visitor # 40 enters Gift room. There are 28 looking to buy!
+					Visitor # 5 exits the system
+					Visitor # 6 exits the system
+					Visitor # 34 exits the system
+					Visitor # 23 exits the system
+					Visitor # 21 exits the system
+				Visitor # 45 enters Gift room. There are 24 looking to buy!
+				Visitor # 28 enters Gift room. There are 25 looking to buy!
+					Visitor # 25 exits the system
+					Visitor # 16 exits the system
+					Visitor # 35 exits the system
+					Visitor # 32 exits the system
+				Visitor # 37 enters Gift room. There are 22 looking to buy!
+					Visitor # 27 exits the system
+				Visitor # 41 enters Gift room. There are 22 looking to buy!
+				Visitor # 49 enters Gift room. There are 23 looking to buy!
+				Visitor # 43 enters Gift room. There are 24 looking to buy!
+					Visitor # 22 exits the system
+					Visitor # 40 exits the system
+					Visitor # 46 exits the system
+					Visitor # 44 exits the system
+					Visitor # 14 exits the system
+					Visitor # 45 exits the system
+					Visitor # 2 exits the system
+					Visitor # 26 exits the system
+					Visitor # 31 exits the system
+					Visitor # 39 exits the system
+					Visitor # 28 exits the system
+					Visitor # 30 exits the system
+					Visitor # 36 exits the system
+					Visitor # 19 exits the system
+					Visitor # 10 exits the system
+					Visitor # 3 exits the system
+					Visitor # 43 exits the system
+					Visitor # 38 exits the system
+					Visitor # 29 exits the system
+					Visitor # 17 exits the system
+					Visitor # 41 exits the system
+					Visitor # 47 exits the system
+					Visitor # 37 exits the system
+					Visitor # 49 exits the system
