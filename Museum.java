@@ -70,10 +70,6 @@ public class Museum implements Runnable{
 }
 
 class Visitor implements Runnable {
-// Class attributes here, including:
-// id
-// Semaphores, mutexes for each room
-// variables for counting visitor
     private final static Random RANDOM = new Random();
     private int myId = 0;
 
@@ -82,7 +78,7 @@ class Visitor implements Runnable {
         myId = id;
         }
 
-// Implement run() method
+    // Implement run() method
         public void run() {
             try {
                 System.out.println("Visitor # " + myId + " enters the system.");
