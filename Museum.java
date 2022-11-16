@@ -5,7 +5,6 @@ import java.util.Random;
 import java.util.concurrent.Semaphore;
 
 public class Museum implements Runnable{
-    private final static Random RANDOM = new Random();
     public static int visitors = 0;
     public static int time = 0;
 
@@ -36,7 +35,7 @@ public class Museum implements Runnable{
 
         if (args.length == 2) {
             try {
-                Museum.time = Integer.parseInt(args[0]) * 1000;
+                Museum.time = Integer.parseInt(args[0]) * 100;
                 Museum.visitors = Integer.parseInt(args[1]);
                 Museum.waitingRoomSem = new Semaphore(waitingRoomPermits);
                 Museum.dinosaurRoomSem = new Semaphore(dinosaurRoomPermits);
